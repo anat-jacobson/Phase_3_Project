@@ -107,4 +107,5 @@ Thank you!
 # For Further information 
 Our process is available in this jupyter notebook or abbreviated in this presentation document.
 
-I am also available on github (anat-jacobson) and via email (anatabigail@gmail.com)
+I am also available on github (anat-jacobson) and via email (anatabigail@gmail.com). Feel free to reach out. 
+

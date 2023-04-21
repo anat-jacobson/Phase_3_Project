@@ -105,9 +105,7 @@ Thank you!
 
 --- 
 # For Further information 
-Our process is available in this <a href ="https://github.com/anat-jacobson/Phase_3_Project/blob/main/index.ipynb" > jupyter notebook </a> or abbreviated in this <a href ="https://github.com/anat-jacobson/Phase_3_Project/blob/main/AJ_Presentation.pdf" >presentation document</a>. 
-
-
+Our process is available in this jupyter notebook ("https://github.com/anat-jacobson/Phase_3_Project/blob/main/index.ipynb) or abbreviated in this presentation document ("https://github.com/anat-jacobson/Phase_3_Project/blob/main/AJ_Presentation.pdf)
 
 I am also available on github (anat-jacobson) and via email (anatabigail@gmail.com). Feel free to reach out. 
 
